@@ -1,4 +1,4 @@
-// Time Complexity : 
+// Time Complexity : O(n)
 // Space Complexity : O(n) as hashmap is used
 // Did this code successfully run on Leetcode :Yes
 // Any problem you faced while coding this :No
