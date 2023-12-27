@@ -1,15 +1,11 @@
-
 // Time Complexity : O(m*n) where m is number of strings and n is average length of strings
 // Space Complexity : O(n) as hashmap is used
 // Did this code successfully run on Leetcode :Yes
 // Any problem you faced while coding this :No
 //Approach: We will use prime products for every string in the list. And if it is not already available, we will store in arraylist.
-
-
-
-
 import java.util.ArrayList;
 class GroupAnagrams {
+    
 
     private int [] prime;
     public List<List<String>> groupAnagrams(String[] strs) {
